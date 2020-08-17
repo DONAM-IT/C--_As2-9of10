@@ -1,0 +1,17 @@
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.pdb
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csprojAssemblyReference.cache
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.pdb
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csprojAssemblyReference.cache
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.pdb

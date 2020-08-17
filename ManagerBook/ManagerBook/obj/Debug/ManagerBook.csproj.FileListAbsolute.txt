@@ -1,0 +1,30 @@
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.exe.config
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.exe
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.pdb
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\MyBookLibrary.dll
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\MyBookLibrary.pdb
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csprojAssemblyReference.cache
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csproj.CoreCompileInputs.cache
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csproj.CopyComplete
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.exe
+C:\Users\dongl\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.pdb
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.exe.config
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.exe
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.pdb
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\MyBookLibrary.dll
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\bin\Debug\MyBookLibrary.pdb
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csprojAssemblyReference.cache
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csproj.CoreCompileInputs.cache
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csproj.CopyComplete
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.exe
+C:\Users\Long\Desktop\PRN292\Lab\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.pdb
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.exe.config
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.exe
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\bin\Debug\ManagerBook.pdb
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\bin\Debug\MyBookLibrary.dll
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\bin\Debug\MyBookLibrary.pdb
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csprojAssemblyReference.cache
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csproj.CoreCompileInputs.cache
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.csproj.CopyComplete
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.exe
+C:\Users\NAM\Desktop\Cham C#\ASSS 2\ManagerBook\ManagerBook\obj\Debug\ManagerBook.pdb
